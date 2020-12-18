@@ -9,7 +9,7 @@ I recommend using [Awardspace](https://awardspace.net) for free hosting with dyn
 
 **Un-Authenticate ALL IP's _(logout)_** : `/?kill`
 
-**Submit a new url** : `/?https://google.com/q=this search` || `/?q=https://google.com/q=this search` || `/?a=<website url>`
+**Submit a new url** : `/?https://google.com/q=this search` **or** `/?q=https://google.com/q=this search` **or** `/?a=<website url>`
 
 This method allows you to create essentially completely anonymouse free URL index sites for [TOR](https://www.torproject.org/) or any other purpose. You can also use this simple system to transmit messages such as `/?q=Hey Bob/How is the weather in California?`
 
