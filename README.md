@@ -16,3 +16,5 @@ This method allows you to create essentially completely anonymouse free URL inde
 You might want to change the `authme` keyword to something unique unless you want randoms to be able to append to your links list.
 
 https://php-minify.com/ was used to create `index-minified.php`
+
+Live demo [here](http://oix.atwebpages.com/)
