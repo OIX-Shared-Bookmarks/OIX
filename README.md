@@ -17,4 +17,4 @@ You might want to change the `authme` keyword to something unique unless you wan
 
 https://php-minify.com/ was used to create `index-minified.php`
 
-Live demo [here](http://oix.atwebpages.com/)
+Live demo [here](http://oix.atwebpages.com/).
