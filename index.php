@@ -1,5 +1,5 @@
 <?php
-
+// 91f7d09794d8da29f028e77df49d4907
 function clrStr($in)
 {
     $in = strtoupper($in);
