@@ -7,7 +7,7 @@ I recommend using [Awardspace](https://awardspace.net) for free hosting with dyn
 
 **Authenticate your IP for add permissions** : `/?authme`
 
-**Un-Authenticate ALL IP's (logout)** : `/?kill`
+**Un-Authenticate ALL IP's _(logout)_** : `/?kill`
 
 **Submit a new url example** : `/?http://www.fucknieer.com/keklol` || `/?q=https://google.com/q=this search`
 
