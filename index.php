@@ -143,6 +143,7 @@ if(isset($_GET['a']))
 <meta name="og:description" content="A Collaberative Database of Awesome Links">
 <meta name="og:site_name" content="OIX">
 <meta name="og:type" content="website">
+<meta name="og:url" content="https://github.com/OIX-Shared-Bookmarks/">
 
 <style>
     hr{
